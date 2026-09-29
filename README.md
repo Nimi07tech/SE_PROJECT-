@@ -1,2 +1,2 @@
 # SE_PROJECT-
-Edited on GitHub
+Edited by Contributor B
